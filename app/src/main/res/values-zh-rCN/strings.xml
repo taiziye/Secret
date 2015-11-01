@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">匿名</string>
+    <string name="action_settings">设置</string>
+    <string name="Phone">手机号</string>
+    <string name="getCode">获取验证码</string>
+    <string name="code">验证码</string>
+    <string name="Login">登录</string>
+    <string name="PublishMessage">发表消息</string>
+    <string name="phone_num_can_not_be_empty">手机号不能为空</string>
+    <string name="code_can_not_be_empty">验证码不能为空</string>
+    <string name="comment_content_can_not_be_empty">评论内容不能为空</string>
+    <string name="fail_to_get_code">获取验证码失败</string>
+    <string name="success_to_get_code">成功获取验证码，请检查你的短信</string>
+    <string name="success_to_publish">发表成功</string>
+    <string name="fail_to_load_timeline_data">数据加载失败，请稍后重试</string>
+    <string name="fail_to_get_comment">获取评论失败，请稍后重试</string>
+    <string name="fail_to_publish_comment">发表评论失败，请稍后重试</string>
+    <string name="fail_to_login">登录失败，请稍后重试</string>
+    <string name="fail_to_publish">发表消息失败，请稍后重试</string>
+    <string name="connecting">正在连接</string>
+    <string name="connecting_to_server">正在连接服务器，请稍后</string>
+    <string name="publish">发表</string>
+    <string name="message_content_can_not_be_empty">消息内容不能为空</string>
+</resources>
